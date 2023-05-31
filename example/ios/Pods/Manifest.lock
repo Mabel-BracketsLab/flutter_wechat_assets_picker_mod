@@ -1,0 +1,48 @@
+PODS:
+  - camera_avfoundation (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - package_info_plus (0.4.5):
+    - Flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - photo_manager (2.0.0):
+    - Flutter
+    - FlutterMacOS
+  - video_player_avfoundation (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - "camera_avfoundation (from `/Users/mabeldevesa/.pub-cache/hosted/pub.dev/camera_avfoundation-0.9.13+2//ios/camera_avfoundation.podspec`)"
+  - Flutter (from `Flutter`)
+  - "package_info_plus (from `/Users/mabeldevesa/.pub-cache/hosted/pub.dev/package_info_plus-1.4.3+1//ios/package_info_plus.podspec`)"
+  - path_provider_foundation (from `/Users/mabeldevesa/.pub-cache/hosted/pub.dev/path_provider_foundation-2.2.3//ios/path_provider_foundation.podspec`)
+  - photo_manager (from `/Users/mabeldevesa/.pub-cache/hosted/pub.dev/photo_manager-2.6.0//ios/photo_manager.podspec`)
+  - video_player_avfoundation (from `/Users/mabeldevesa/.pub-cache/hosted/pub.dev/video_player_avfoundation-2.4.6//ios/video_player_avfoundation.podspec`)
+
+EXTERNAL SOURCES:
+  camera_avfoundation:
+    :path: "/Users/mabeldevesa/.pub-cache/hosted/pub.dev/camera_avfoundation-0.9.13+2//ios/camera_avfoundation.podspec"
+  Flutter:
+    :path: Flutter
+  package_info_plus:
+    :path: "/Users/mabeldevesa/.pub-cache/hosted/pub.dev/package_info_plus-1.4.3+1//ios/package_info_plus.podspec"
+  path_provider_foundation:
+    :path: "/Users/mabeldevesa/.pub-cache/hosted/pub.dev/path_provider_foundation-2.2.3//ios/path_provider_foundation.podspec"
+  photo_manager:
+    :path: "/Users/mabeldevesa/.pub-cache/hosted/pub.dev/photo_manager-2.6.0//ios/photo_manager.podspec"
+  video_player_avfoundation:
+    :path: "/Users/mabeldevesa/.pub-cache/hosted/pub.dev/video_player_avfoundation-2.4.6//ios/video_player_avfoundation.podspec"
+
+SPEC CHECKSUMS:
+  camera_avfoundation: 3125e8cd1a4387f6f31c6c63abb8a55892a9eeeb
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  package_info_plus: 6c92f08e1f853dc01228d6f553146438dafcd14e
+  path_provider_foundation: eaf5b3e458fc0e5fbb9940fb09980e853fe058b8
+  photo_manager: 4f6810b7dfc4feb03b461ac1a70dacf91fba7604
+  video_player_avfoundation: 81e49bb3d9fb63dccf9fa0f6d877dc3ddbeac126
+
+PODFILE CHECKSUM: c6c71076ad73336b8cbb92c5d0a5946865610114
+
+COCOAPODS: 1.12.0

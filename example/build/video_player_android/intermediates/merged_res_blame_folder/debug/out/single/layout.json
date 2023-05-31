@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/video_player_android/intermediates/merged_res/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/mabeldevesa/.gradle/caches/transforms-3/63e872788708105c3a7e59071340cdb9/transformed/core-1.7.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/video_player_android/intermediates/merged_res/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/mabeldevesa/.gradle/caches/transforms-3/63e872788708105c3a7e59071340cdb9/transformed/core-1.7.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/video_player_android/intermediates/merged_res/debug/layout/custom_dialog.xml",
+        "source": "/Users/mabeldevesa/.gradle/caches/transforms-3/63e872788708105c3a7e59071340cdb9/transformed/core-1.7.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/video_player_android/intermediates/merged_res/debug/layout/notification_action.xml",
+        "source": "/Users/mabeldevesa/.gradle/caches/transforms-3/63e872788708105c3a7e59071340cdb9/transformed/core-1.7.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/video_player_android/intermediates/merged_res/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/mabeldevesa/.gradle/caches/transforms-3/63e872788708105c3a7e59071340cdb9/transformed/core-1.7.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/video_player_android/intermediates/merged_res/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/mabeldevesa/.gradle/caches/transforms-3/63e872788708105c3a7e59071340cdb9/transformed/core-1.7.0/res/layout/notification_template_part_chronometer.xml"
+    }
+]

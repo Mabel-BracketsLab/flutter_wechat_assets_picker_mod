@@ -1,0 +1,264 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:1:1-43:12
+MERGED from [:camera_android] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/camera_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-10:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:photo_manager] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/photo_manager/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:package_info_plus] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/package_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:video_player_android] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/video_player_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/mabeldevesa/.gradle/caches/transforms-3/874b503c7ade14ef59bbada6ec571bef/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/mabeldevesa/.gradle/caches/transforms-3/6daefaa57fa765e29e28c0a80a3cd524/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/mabeldevesa/.gradle/caches/transforms-3/35aef67e80269ab6ab6cb61c0151b2d4/transformed/jetified-glide-4.14.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.5] /Users/mabeldevesa/.gradle/caches/transforms-3/f374ad2bb8db15d5eaa7ede9e0f09ee9/transformed/exifinterface-1.3.5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/3bb862850e19df72500f3de6f66ba925/transformed/jetified-exoplayer-hls-2.18.6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/c62b29df84ac016464b29f5bcbe7ff5a/transformed/jetified-exoplayer-dash-2.18.6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/6d9b27cf825606ea301006b28dc7b3b7/transformed/jetified-exoplayer-smoothstreaming-2.18.6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/6995b7da850fea63bf0ec3fec1877fd1/transformed/jetified-exoplayer-core-2.18.6/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/mabeldevesa/.gradle/caches/transforms-3/bbc0dfd24988f8baa666c5d6b47b64b7/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/mabeldevesa/.gradle/caches/transforms-3/2102dcecf5f4f627406cb39945bcbea3/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mabeldevesa/.gradle/caches/transforms-3/609b5e53a8be5bda19a51dc01af18bb4/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/mabeldevesa/.gradle/caches/transforms-3/e178a4cb1633d9ac8542a55edd4c1822/transformed/jetified-gifdecoder-4.14.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mabeldevesa/.gradle/caches/transforms-3/26afec2d3a655de705dcc0a4aa33ecab/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mabeldevesa/.gradle/caches/transforms-3/a878c3cc6b8de4f11f81fde06ab1883a/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mabeldevesa/.gradle/caches/transforms-3/f4276d713f6c71116e62342e35115a55/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mabeldevesa/.gradle/caches/transforms-3/00677616a7f688cc12b3cab5230f12de/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/mabeldevesa/.gradle/caches/transforms-3/ef1d812b15dd48fbe2cd9b44b0bbab0a/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/mabeldevesa/.gradle/caches/transforms-3/63e872788708105c3a7e59071340cdb9/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/b5b755960a23b48cd999f5c3c2f784ff/transformed/jetified-exoplayer-datasource-2.18.6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/8cf7abeddab7fc52265fe3672804e6a8/transformed/jetified-exoplayer-extractor-2.18.6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/fc092d1689a99afb9e33da3c0f991f7e/transformed/jetified-exoplayer-decoder-2.18.6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/9ea8b1a1f196850bec9e65b2bdabc475/transformed/jetified-exoplayer-database-2.18.6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/980a61887049a1049e9744f2790f0647/transformed/jetified-exoplayer-common-2.18.6/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mabeldevesa/.gradle/caches/transforms-3/95481286f4cb56f5383dc1e8098a31d3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/mabeldevesa/.gradle/caches/transforms-3/da8f677f4ace6c7f3fc7a5690ba262b0/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/mabeldevesa/.gradle/caches/transforms-3/499ee17bba3eac6afbf31f3cbe8a7368/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/mabeldevesa/.gradle/caches/transforms-3/8a9f2a93d9fa53e0a0731f231d079d7a/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mabeldevesa/.gradle/caches/transforms-3/c0c496982faa610f46607dcd5b08e7d6/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/mabeldevesa/.gradle/caches/transforms-3/d1065930588a145c64213869347578a3/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mabeldevesa/.gradle/caches/transforms-3/32b47456db59a5268b1b71a41d6db561/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/mabeldevesa/.gradle/caches/transforms-3/6e307bfcd80f003278640e3e793c0633/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/mabeldevesa/.gradle/caches/transforms-3/fa96b7541c199da483e0dee155fa314a/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mabeldevesa/.gradle/caches/transforms-3/aa2de6c8beb5aa1fc88618bf8be767a6/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:1:1-43:12
+	package
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:2:5-59
+		INJECTED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:1:1-43:12
+		INJECTED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:1:1-43:12
+		INJECTED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:3:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:4:5-6:37
+	android:maxSdkVersion
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:6:9-35
+	android:name
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:5:9-65
+uses-permission#android.permission.READ_MEDIA_IMAGES
+ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:8:22-73
+uses-permission#android.permission.READ_MEDIA_VIDEO
+ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:9:22-72
+uses-permission#android.permission.READ_MEDIA_AUDIO
+ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:10:22-72
+application
+ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:12:5-42:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/mabeldevesa/.gradle/caches/transforms-3/6daefaa57fa765e29e28c0a80a3cd524/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/mabeldevesa/.gradle/caches/transforms-3/6daefaa57fa765e29e28c0a80a3cd524/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/mabeldevesa/.gradle/caches/transforms-3/35aef67e80269ab6ab6cb61c0151b2d4/transformed/jetified-glide-4.14.2/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/mabeldevesa/.gradle/caches/transforms-3/35aef67e80269ab6ab6cb61c0151b2d4/transformed/jetified-glide-4.14.2/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/mabeldevesa/.gradle/caches/transforms-3/e178a4cb1633d9ac8542a55edd4c1822/transformed/jetified-gifdecoder-4.14.2/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/mabeldevesa/.gradle/caches/transforms-3/e178a4cb1633d9ac8542a55edd4c1822/transformed/jetified-gifdecoder-4.14.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.7.0] /Users/mabeldevesa/.gradle/caches/transforms-3/63e872788708105c3a7e59071340cdb9/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/mabeldevesa/.gradle/caches/transforms-3/63e872788708105c3a7e59071340cdb9/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mabeldevesa/.gradle/caches/transforms-3/95481286f4cb56f5383dc1e8098a31d3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mabeldevesa/.gradle/caches/transforms-3/95481286f4cb56f5383dc1e8098a31d3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/mabeldevesa/.gradle/caches/transforms-3/63e872788708105c3a7e59071340cdb9/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:13:9-53
+	android:icon
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:15:9-36
+activity#com.fluttercandies.wechatAssetsPickerExample.MainActivity
+ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:16:9-36:20
+	android:launchMode
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:19:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:22:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:23:13-55
+	android:exported
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:18:13-36
+	android:configChanges
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:21:13-163
+	android:theme
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:20:13-47
+	android:name
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:25:17-68
+	android:name
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:26:17-76
+	android:name
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:26:27-74
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:32:13-35:15
+	android:resource
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:34:17-54
+	android:name
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:33:17-72
+meta-data#flutterEmbedding
+ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:39:9-41:33
+	android:value
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:41:13-30
+	android:name
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml:40:13-44
+uses-sdk
+INJECTED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml
+MERGED from [:camera_android] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/camera_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:camera_android] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/camera_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/flutter_plugin_android_lifecycle/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:photo_manager] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/photo_manager/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:photo_manager] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/photo_manager/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:package_info_plus] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/package_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:package_info_plus] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/package_info_plus/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/path_provider_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/video_player_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/video_player_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/mabeldevesa/.gradle/caches/transforms-3/874b503c7ade14ef59bbada6ec571bef/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/mabeldevesa/.gradle/caches/transforms-3/874b503c7ade14ef59bbada6ec571bef/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/mabeldevesa/.gradle/caches/transforms-3/6daefaa57fa765e29e28c0a80a3cd524/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/mabeldevesa/.gradle/caches/transforms-3/6daefaa57fa765e29e28c0a80a3cd524/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/mabeldevesa/.gradle/caches/transforms-3/35aef67e80269ab6ab6cb61c0151b2d4/transformed/jetified-glide-4.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.14.2] /Users/mabeldevesa/.gradle/caches/transforms-3/35aef67e80269ab6ab6cb61c0151b2d4/transformed/jetified-glide-4.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.5] /Users/mabeldevesa/.gradle/caches/transforms-3/f374ad2bb8db15d5eaa7ede9e0f09ee9/transformed/exifinterface-1.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.5] /Users/mabeldevesa/.gradle/caches/transforms-3/f374ad2bb8db15d5eaa7ede9e0f09ee9/transformed/exifinterface-1.3.5/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/3bb862850e19df72500f3de6f66ba925/transformed/jetified-exoplayer-hls-2.18.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/3bb862850e19df72500f3de6f66ba925/transformed/jetified-exoplayer-hls-2.18.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/c62b29df84ac016464b29f5bcbe7ff5a/transformed/jetified-exoplayer-dash-2.18.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/c62b29df84ac016464b29f5bcbe7ff5a/transformed/jetified-exoplayer-dash-2.18.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/6d9b27cf825606ea301006b28dc7b3b7/transformed/jetified-exoplayer-smoothstreaming-2.18.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/6d9b27cf825606ea301006b28dc7b3b7/transformed/jetified-exoplayer-smoothstreaming-2.18.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/6995b7da850fea63bf0ec3fec1877fd1/transformed/jetified-exoplayer-core-2.18.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/6995b7da850fea63bf0ec3fec1877fd1/transformed/jetified-exoplayer-core-2.18.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/mabeldevesa/.gradle/caches/transforms-3/bbc0dfd24988f8baa666c5d6b47b64b7/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/mabeldevesa/.gradle/caches/transforms-3/bbc0dfd24988f8baa666c5d6b47b64b7/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/mabeldevesa/.gradle/caches/transforms-3/2102dcecf5f4f627406cb39945bcbea3/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/mabeldevesa/.gradle/caches/transforms-3/2102dcecf5f4f627406cb39945bcbea3/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mabeldevesa/.gradle/caches/transforms-3/609b5e53a8be5bda19a51dc01af18bb4/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/mabeldevesa/.gradle/caches/transforms-3/609b5e53a8be5bda19a51dc01af18bb4/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/mabeldevesa/.gradle/caches/transforms-3/e178a4cb1633d9ac8542a55edd4c1822/transformed/jetified-gifdecoder-4.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.14.2] /Users/mabeldevesa/.gradle/caches/transforms-3/e178a4cb1633d9ac8542a55edd4c1822/transformed/jetified-gifdecoder-4.14.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mabeldevesa/.gradle/caches/transforms-3/26afec2d3a655de705dcc0a4aa33ecab/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mabeldevesa/.gradle/caches/transforms-3/26afec2d3a655de705dcc0a4aa33ecab/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mabeldevesa/.gradle/caches/transforms-3/a878c3cc6b8de4f11f81fde06ab1883a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mabeldevesa/.gradle/caches/transforms-3/a878c3cc6b8de4f11f81fde06ab1883a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mabeldevesa/.gradle/caches/transforms-3/f4276d713f6c71116e62342e35115a55/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/mabeldevesa/.gradle/caches/transforms-3/f4276d713f6c71116e62342e35115a55/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mabeldevesa/.gradle/caches/transforms-3/00677616a7f688cc12b3cab5230f12de/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/mabeldevesa/.gradle/caches/transforms-3/00677616a7f688cc12b3cab5230f12de/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/mabeldevesa/.gradle/caches/transforms-3/ef1d812b15dd48fbe2cd9b44b0bbab0a/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mabeldevesa/.gradle/caches/transforms-3/ef1d812b15dd48fbe2cd9b44b0bbab0a/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/mabeldevesa/.gradle/caches/transforms-3/63e872788708105c3a7e59071340cdb9/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/mabeldevesa/.gradle/caches/transforms-3/63e872788708105c3a7e59071340cdb9/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/b5b755960a23b48cd999f5c3c2f784ff/transformed/jetified-exoplayer-datasource-2.18.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/b5b755960a23b48cd999f5c3c2f784ff/transformed/jetified-exoplayer-datasource-2.18.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/8cf7abeddab7fc52265fe3672804e6a8/transformed/jetified-exoplayer-extractor-2.18.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/8cf7abeddab7fc52265fe3672804e6a8/transformed/jetified-exoplayer-extractor-2.18.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/fc092d1689a99afb9e33da3c0f991f7e/transformed/jetified-exoplayer-decoder-2.18.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/fc092d1689a99afb9e33da3c0f991f7e/transformed/jetified-exoplayer-decoder-2.18.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/9ea8b1a1f196850bec9e65b2bdabc475/transformed/jetified-exoplayer-database-2.18.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/9ea8b1a1f196850bec9e65b2bdabc475/transformed/jetified-exoplayer-database-2.18.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/980a61887049a1049e9744f2790f0647/transformed/jetified-exoplayer-common-2.18.6/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/980a61887049a1049e9744f2790f0647/transformed/jetified-exoplayer-common-2.18.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mabeldevesa/.gradle/caches/transforms-3/95481286f4cb56f5383dc1e8098a31d3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/mabeldevesa/.gradle/caches/transforms-3/95481286f4cb56f5383dc1e8098a31d3/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/mabeldevesa/.gradle/caches/transforms-3/da8f677f4ace6c7f3fc7a5690ba262b0/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/mabeldevesa/.gradle/caches/transforms-3/da8f677f4ace6c7f3fc7a5690ba262b0/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/mabeldevesa/.gradle/caches/transforms-3/499ee17bba3eac6afbf31f3cbe8a7368/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/mabeldevesa/.gradle/caches/transforms-3/499ee17bba3eac6afbf31f3cbe8a7368/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/mabeldevesa/.gradle/caches/transforms-3/8a9f2a93d9fa53e0a0731f231d079d7a/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/mabeldevesa/.gradle/caches/transforms-3/8a9f2a93d9fa53e0a0731f231d079d7a/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mabeldevesa/.gradle/caches/transforms-3/c0c496982faa610f46607dcd5b08e7d6/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mabeldevesa/.gradle/caches/transforms-3/c0c496982faa610f46607dcd5b08e7d6/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/mabeldevesa/.gradle/caches/transforms-3/d1065930588a145c64213869347578a3/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/mabeldevesa/.gradle/caches/transforms-3/d1065930588a145c64213869347578a3/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mabeldevesa/.gradle/caches/transforms-3/32b47456db59a5268b1b71a41d6db561/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mabeldevesa/.gradle/caches/transforms-3/32b47456db59a5268b1b71a41d6db561/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/mabeldevesa/.gradle/caches/transforms-3/6e307bfcd80f003278640e3e793c0633/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/mabeldevesa/.gradle/caches/transforms-3/6e307bfcd80f003278640e3e793c0633/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/mabeldevesa/.gradle/caches/transforms-3/fa96b7541c199da483e0dee155fa314a/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/mabeldevesa/.gradle/caches/transforms-3/fa96b7541c199da483e0dee155fa314a/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mabeldevesa/.gradle/caches/transforms-3/aa2de6c8beb5aa1fc88618bf8be767a6/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/mabeldevesa/.gradle/caches/transforms-3/aa2de6c8beb5aa1fc88618bf8be767a6/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [:camera_android] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/camera_android/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from [:camera_android] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/camera_android/intermediates/merged_manifest/debug/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:camera_android] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/camera_android/intermediates/merged_manifest/debug/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from [:camera_android] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/camera_android/intermediates/merged_manifest/debug/AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:photo_manager] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/photo_manager/intermediates/merged_manifest/debug/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:photo_manager] /Users/mabeldevesa/Documents/Trabajo/Junby/Librerias Forkeadas/MISMA VERSION QUE DE JUNBY WECHAT ASSETS PICKER/wechat_assets_picker-8.4.3/example/build/photo_manager/intermediates/merged_manifest/debug/AndroidManifest.xml:7:22-77
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/mabeldevesa/.gradle/caches/transforms-3/6daefaa57fa765e29e28c0a80a3cd524/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/mabeldevesa/.gradle/caches/transforms-3/6daefaa57fa765e29e28c0a80a3cd524/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/mabeldevesa/.gradle/caches/transforms-3/6daefaa57fa765e29e28c0a80a3cd524/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/mabeldevesa/.gradle/caches/transforms-3/6daefaa57fa765e29e28c0a80a3cd524/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/mabeldevesa/.gradle/caches/transforms-3/6daefaa57fa765e29e28c0a80a3cd524/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/mabeldevesa/.gradle/caches/transforms-3/6daefaa57fa765e29e28c0a80a3cd524/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/6995b7da850fea63bf0ec3fec1877fd1/transformed/jetified-exoplayer-core-2.18.6/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/980a61887049a1049e9744f2790f0647/transformed/jetified-exoplayer-common-2.18.6/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/980a61887049a1049e9744f2790f0647/transformed/jetified-exoplayer-common-2.18.6/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.18.6] /Users/mabeldevesa/.gradle/caches/transforms-3/6995b7da850fea63bf0ec3fec1877fd1/transformed/jetified-exoplayer-core-2.18.6/AndroidManifest.xml:24:22-76
