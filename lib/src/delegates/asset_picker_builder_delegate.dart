@@ -562,8 +562,8 @@ abstract class AssetPickerBuilderDelegate<Asset, Path> {
   Widget iOSPermissionOverlay(BuildContext context) {
     final Size size = context.mediaQuery.size;
     final Widget closeButton = Container(
-      margin: const EdgeInsetsDirectional.only(start: 16, top: 4),
-      alignment: AlignmentDirectional.centerStart,
+      padding: const EdgeInsets.only(left: 30, top: 10),
+      alignment: AlignmentDirectional.topStart,
       child: IconButton(
         onPressed: Navigator.of(context).maybePop,
         icon: const Icon(Icons.close),
