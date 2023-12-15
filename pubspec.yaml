@@ -49,37 +49,27 @@ screenshots:
 
 # The following section is specific to Flutter packages.
 flutter:
-  generate: true
-  # The following line ensures that the Material Icons font is
-  # included with your application, so that you can use the icons in
-  # the material Icons class.
-  uses-material-design: true
-
-  # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
   assets:
-    - assets/
+    - lib/assets/
 
   fonts:
     - family: Urbanist
       fonts:
-        - asset: assets/fonts/urbanist/Urbanist-Black.ttf
+        - asset: lib/assets/fonts/urbanist/Urbanist-Black.ttf
           weight: 900
-        - asset: assets/fonts/urbanist/Urbanist-ExtraBold.ttf
+        - asset: lib/assets/fonts/urbanist/Urbanist-ExtraBold.ttf
           weight: 800
-        - asset: assets/fonts/urbanist/Urbanist-Bold.ttf
+        - asset: lib/assets/fonts/urbanist/Urbanist-Bold.ttf
           weight: 700
-        - asset: assets/fonts/urbanist/Urbanist-SemiBold.ttf
+        - asset: lib/assets/fonts/urbanist/Urbanist-SemiBold.ttf
           weight: 600
-        - asset: assets/fonts/urbanist/Urbanist-Medium.ttf
+        - asset: lib/assets/fonts/urbanist/Urbanist-Medium.ttf
           weight: 500
-        - asset: assets/fonts/urbanist/Urbanist-Regular.ttf
+        - asset: lib/assets/fonts/urbanist/Urbanist-Regular.ttf
           weight: 400
-        - asset: assets/fonts/urbanist/Urbanist-Light.ttf
+        - asset: lib/assets/fonts/urbanist/Urbanist-Light.ttf
           weight: 300
-        - asset: assets/fonts/urbanist/Urbanist-ExtraLight.ttf
+        - asset: lib/assets/fonts/urbanist/Urbanist-ExtraLight.ttf
           weight: 200
-        - asset: assets/fonts/urbanist/Urbanist-Thin.ttf
+        - asset: lib/assets/fonts/urbanist/Urbanist-Thin.ttf
           weight: 100
