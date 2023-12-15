@@ -580,14 +580,14 @@ abstract class AssetPickerBuilderDelegate<Asset, Path> {
         children: <Widget>[
           ScaleText(
             textDelegate.unableToAccessAll,
-            style: const TextStyle(fontSize: 19, color: Colors.white, fontFamily: 'Urbanist'),
+            style: const TextStyle(fontSize: 19, fontWeight: FontWeight.w700, color: Colors.white, fontFamily: 'Urbanist'),
             textAlign: TextAlign.start,
             semanticsLabel: semanticsTextDelegate.unableToAccessAll,
           ),
           SizedBox(height: size.height / 30),
           ScaleText(
             textDelegate.accessAllTip,
-            style: const TextStyle(fontSize: 14, color: Color(0xff8C8C8C), fontFamily: 'Urbanist'),
+            style: const TextStyle(fontSize: 14, fontWeight: FontWeight.w400, color: Color(0xff8C8C8C), fontFamily: 'Urbanist'),
             textAlign: TextAlign.start,
             semanticsLabel: semanticsTextDelegate.accessAllTip,
           ),
@@ -599,7 +599,7 @@ abstract class AssetPickerBuilderDelegate<Asset, Path> {
       elevation: 0,
       minWidth: double.infinity,
       height: 50,
-      padding: const EdgeInsets.symmetric(horizontal: 24),
+      // padding: const EdgeInsets.symmetric(horizontal: 24),
       color: const Color(0xff00D280),
       shape: const RoundedRectangleBorder(
         borderRadius: BorderRadius.all(Radius.circular(10)),
@@ -608,7 +608,7 @@ abstract class AssetPickerBuilderDelegate<Asset, Path> {
       materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
       child: ScaleText(
         textDelegate.goToSystemSettings,
-        style: const TextStyle(fontSize: 14, color: Colors.white, fontFamily: 'Urbanist'),
+        style: const TextStyle(fontSize: 14, fontWeight: FontWeight.w700, color: Colors.white, fontFamily: 'Urbanist'),
         semanticsLabel: semanticsTextDelegate.goToSystemSettings,
       ),
     );
@@ -633,14 +633,18 @@ abstract class AssetPickerBuilderDelegate<Asset, Path> {
           child: Semantics(
             sortKey: const OrdinalSortKey(0),
             child: Container(
-              padding: context.mediaQuery.padding,
+              // padding: context.mediaQuery.padding,
+              padding: const EdgeInsets.only(left: 30, right: 30, bottom: 20),
               color: const Color(0xff000000),
               // color: context.themeData.canvasColor,
               child: Column(
                 children: <Widget>[
                   closeButton,
                   Expanded(child: limitedTips),
-                  goToSettingsButton,
+                  Container(
+                    // padding: const EdgeInsets.symmetric(horizontal: 30),
+                    child: goToSettingsButton
+                  ),
                   SizedBox(height: size.height / 18),
                   accessLimitedButton,
                 ],
