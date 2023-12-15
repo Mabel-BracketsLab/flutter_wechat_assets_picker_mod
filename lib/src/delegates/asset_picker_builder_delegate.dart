@@ -580,15 +580,15 @@ abstract class AssetPickerBuilderDelegate<Asset, Path> {
         children: <Widget>[
           ScaleText(
             textDelegate.unableToAccessAll,
-            style: const TextStyle(fontSize: 22),
-            textAlign: TextAlign.center,
+            style: const TextStyle(fontSize: 19, color: Colors.white, fontFamily: 'Urbanist'),
+            textAlign: TextAlign.start,
             semanticsLabel: semanticsTextDelegate.unableToAccessAll,
           ),
           SizedBox(height: size.height / 30),
           ScaleText(
             textDelegate.accessAllTip,
-            style: const TextStyle(fontSize: 18),
-            textAlign: TextAlign.center,
+            style: const TextStyle(fontSize: 14, color: Color(0xff8C8C8C), fontFamily: 'Urbanist'),
+            textAlign: TextAlign.start,
             semanticsLabel: semanticsTextDelegate.accessAllTip,
           ),
         ],
@@ -597,18 +597,18 @@ abstract class AssetPickerBuilderDelegate<Asset, Path> {
 
     final Widget goToSettingsButton = MaterialButton(
       elevation: 0,
-      minWidth: size.width / 2,
-      height: appBarItemHeight * 1.25,
+      minWidth: double.infinity,
+      height: 50,
       padding: const EdgeInsets.symmetric(horizontal: 24),
-      color: themeColor,
-      shape: RoundedRectangleBorder(
-        borderRadius: BorderRadius.circular(5),
+      color: const Color(0xff00D280),
+      shape: const RoundedRectangleBorder(
+        borderRadius: BorderRadius.all(Radius.circular(10)),
       ),
       onPressed: PhotoManager.openSetting,
       materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
       child: ScaleText(
         textDelegate.goToSystemSettings,
-        style: const TextStyle(fontSize: 17),
+        style: const TextStyle(fontSize: 14, color: Colors.white, fontFamily: 'Urbanist'),
         semanticsLabel: semanticsTextDelegate.goToSystemSettings,
       ),
     );
@@ -617,7 +617,7 @@ abstract class AssetPickerBuilderDelegate<Asset, Path> {
       onTap: () => permissionOverlayDisplay.value = false,
       child: ScaleText(
         textDelegate.accessLimitedAssets,
-        style: TextStyle(color: interactiveTextColor(context)),
+        style: const TextStyle(color: Colors.white, fontFamily: 'Urbanist'),
         semanticsLabel: semanticsTextDelegate.accessLimitedAssets,
       ),
     );
@@ -634,7 +634,8 @@ abstract class AssetPickerBuilderDelegate<Asset, Path> {
             sortKey: const OrdinalSortKey(0),
             child: Container(
               padding: context.mediaQuery.padding,
-              color: context.themeData.canvasColor,
+              color: const Color(0xff000000),
+              // color: context.themeData.canvasColor,
               child: Column(
                 children: <Widget>[
                   closeButton,
