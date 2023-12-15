@@ -562,14 +562,22 @@ abstract class AssetPickerBuilderDelegate<Asset, Path> {
   Widget iOSPermissionOverlay(BuildContext context) {
     final Size size = context.mediaQuery.size;
     final Widget closeButton = Container(
-      padding: const EdgeInsets.only(top: 10, left: -5),
-      child: IconButton(
-        onPressed: Navigator.of(context).maybePop,
-        icon: const Icon(Icons.close),
-        padding: EdgeInsets.zero,
-        constraints: BoxConstraints.tight(const Size.square(32)),
-        tooltip: MaterialLocalizations.of(context).closeButtonTooltip,
-      ),
+      width: 50,
+      height: 50,
+      alignment: Alignment.topLeft,
+      padding: const EdgeInsets.only(top: 30),
+      child: Transform.translate(
+        offset: const Offset(-15, 0),
+        child: IconButton(
+          alignment: Alignment.topLeft,
+          onPressed: Navigator.of(context).maybePop,
+          icon: const Icon(Icons.close, size: 30,),
+          // padding: EdgeInsets.zero,
+          constraints: BoxConstraints.tight(const Size.square(50)),
+          tooltip: MaterialLocalizations.of(context).closeButtonTooltip,
+        ),
+      )
+
     );
 
     final Widget limitedTips = Column(
@@ -632,14 +640,17 @@ abstract class AssetPickerBuilderDelegate<Asset, Path> {
               // padding: context.mediaQuery.padding,
               padding: const EdgeInsets.only(left: 30, right: 30, bottom: 20),
               color: const Color(0xff000000),
-              // color: context.themeData.canvasColor,
               child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
                 children: <Widget>[
                   closeButton,
                   Expanded(child: limitedTips),
                   goToSettingsButton,
                   SizedBox(height: size.height / 18),
-                  accessLimitedButton,
+                  Align(
+                    alignment: Alignment.center,
+                    child: accessLimitedButton,
+                  )
                 ],
               ),
             ),
