@@ -573,26 +573,23 @@ abstract class AssetPickerBuilderDelegate<Asset, Path> {
       ),
     );
 
-    final Widget limitedTips = Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 30),
-      child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: <Widget>[
-          ScaleText(
-            textDelegate.unableToAccessAll,
-            style: const TextStyle(fontSize: 19, fontWeight: FontWeight.w700, color: Colors.white, fontFamily: 'Urbanist'),
-            textAlign: TextAlign.start,
-            semanticsLabel: semanticsTextDelegate.unableToAccessAll,
-          ),
-          SizedBox(height: size.height / 30),
-          ScaleText(
-            textDelegate.accessAllTip,
-            style: const TextStyle(fontSize: 14, fontWeight: FontWeight.w400, color: Color(0xff8C8C8C), fontFamily: 'Urbanist'),
-            textAlign: TextAlign.start,
-            semanticsLabel: semanticsTextDelegate.accessAllTip,
-          ),
-        ],
-      ),
+    final Widget limitedTips = Column(
+      mainAxisAlignment: MainAxisAlignment.center,
+      children: <Widget>[
+        ScaleText(
+          textDelegate.unableToAccessAll,
+          style: const TextStyle(fontSize: 19, fontWeight: FontWeight.w700, color: Colors.white, fontFamily: 'Urbanist'),
+          textAlign: TextAlign.start,
+          semanticsLabel: semanticsTextDelegate.unableToAccessAll,
+        ),
+        SizedBox(height: size.height / 30),
+        ScaleText(
+          textDelegate.accessAllTip,
+          style: const TextStyle(fontSize: 14, fontWeight: FontWeight.w400, color: Color(0xff8C8C8C), fontFamily: 'Urbanist'),
+          textAlign: TextAlign.start,
+          semanticsLabel: semanticsTextDelegate.accessAllTip,
+        ),
+      ],
     );
 
     final Widget goToSettingsButton = MaterialButton(
@@ -641,10 +638,7 @@ abstract class AssetPickerBuilderDelegate<Asset, Path> {
                 children: <Widget>[
                   closeButton,
                   Expanded(child: limitedTips),
-                  Container(
-                    // padding: const EdgeInsets.symmetric(horizontal: 30),
-                    child: goToSettingsButton
-                  ),
+                  goToSettingsButton,
                   SizedBox(height: size.height / 18),
                   accessLimitedButton,
                 ],
